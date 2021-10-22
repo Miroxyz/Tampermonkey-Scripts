@@ -4,6 +4,7 @@
 // @version      0.1.0
 // @description  从简书、力扣、知乎复制的文字都会被加上版权声明，这个脚本会去除这个版权声明
 // @author       Miroxyz
+// @match        *://*.bilibili.com/*
 // @match        *://*.juejin.cn/*
 // @match        *://*.leetcode-cn.com/*
 // @match        *://*.zhihu.com/*
